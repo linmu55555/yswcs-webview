@@ -1,55 +1,55 @@
-#EXTM3U webview x-tvg-url="https://epg.pw/xmltv/epg_lite.xml" url-tvg="https://epg.pw/xmltv/epg_lite.xml"
+#EXTM3U webview x-tvg-url="https://tv.mxdyeah.top/epgphp/t.xml" url-tvg="https://tv.mxdyeah.top/epgphp/t.xml"
 
-#EXTINF:-1 tvg-id="CCTV1.cn@HD" tvg-name="CCTV-1 综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视",CCTV-1 综合
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1 综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 webview://https://tv.cctv.com/live/cctv1/
 
-#EXTINF:-1 tvg-id="CCTV2.cn@HD" tvg-name="CCTV-2 财经" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视",CCTV-2 财经
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2 财经" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视",CCTV-2 财经
 webview://https://tv.cctv.com/live/cctv2/
 
-#EXTINF:-1 tvg-id="CCTV3.cn@HD" tvg-name="CCTV-3 综艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视",CCTV-3 综艺
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV-3 综艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视",CCTV-3 综艺
 webview://https://tv.cctv.com/live/cctv3/
 
-#EXTINF:-1 tvg-id="CCTV4.cn@HD" tvg-name="CCTV-4 中文国际" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-4 中文国际" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
 webview://https://tv.cctv.com/live/cctv4/
 
-#EXTINF:-1 tvg-id="CCTV5.cn@HD" tvg-name="CCTV-5 体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视",CCTV-5 体育
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5 体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视",CCTV-5 体育
 webview://https://tv.cctv.com/live/cctv5/
 
-#EXTINF:-1 tvg-id="CCTV5+.cn@HD" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 webview://https://tv.cctv.com/live/cctv5plus/
 
-#EXTINF:-1 tvg-id="CCTV6.cn@HD" tvg-name="CCTV-6 电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视",CCTV-6 电影
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV-6 电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视",CCTV-6 电影
 webview://https://tv.cctv.com/live/cctv6/
 
-#EXTINF:-1 tvg-id="CCTV7.cn@HD" tvg-name="CCTV-7 国防军事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV-7 国防军事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
 webview://https://tv.cctv.com/live/cctv7/
 
-#EXTINF:-1 tvg-id="CCTV8.cn@HD" tvg-name="CCTV-8 电视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV-8 电视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
 webview://https://tv.cctv.com/live/cctv8/
 
-#EXTINF:-1 tvg-id="CCTV9.cn@HD" tvg-name="CCTV-9 纪录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视",CCTV-9 纪录
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV-9 纪录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视",CCTV-9 纪录
 webview://https://tv.cctv.com/live/cctvjilu/
 
-#EXTINF:-1 tvg-id="CCTV10.cn@HD" tvg-name="CCTV-10 科教" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视",CCTV-10 科教
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV-10 科教" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视",CCTV-10 科教
 webview://https://tv.cctv.com/live/cctv10/
 
-#EXTINF:-1 tvg-id="CCTV11.cn@HD" tvg-name="CCTV-11 戏曲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视",CCTV-11 戏曲
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV-11 戏曲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视",CCTV-11 戏曲
 webview://https://tv.cctv.com/live/cctv11/
 
-#EXTINF:-1 tvg-id="CCTV12.cn@HD" tvg-name="CCTV-12 社会与法" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视",CCTV-12 社会与法
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV-12 社会与法" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视",CCTV-12 社会与法
 webview://https://tv.cctv.com/live/cctv12/
 
-#EXTINF:-1 tvg-id="CCTV13.cn@HD" tvg-name="CCTV-13 新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13 新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
 webview://https://tv.cctv.com/live/cctv13/
 
-#EXTINF:-1 tvg-id="CCTV14.cn@HD" tvg-name="CCTV-14 少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视",CCTV-14 少儿
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV-14 少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视",CCTV-14 少儿
 webview://https://tv.cctv.com/live/cctvchild/
 
-#EXTINF:-1 tvg-id="CCTV15.cn@HD" tvg-name="CCTV-15 音乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV-15 音乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
 webview://https://tv.cctv.com/live/cctv15/
 
-#EXTINF:-1 tvg-id="CCTV16.cn@HD" tvg-name="CCTV-16 奥林匹克" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16 奥林匹克" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 webview://https://tv.cctv.com/live/cctv16/
 
-#EXTINF:-1 tvg-id="CCTV17.cn@HD" tvg-name="CCTV-17 农业农村" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV-17 农业农村" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
 webview://https://tv.cctv.com/live/cctv17/
