@@ -1,4 +1,4 @@
-#EXTM3U webview x-tvg-url="https://epg.112114.eu.org/" url-tvg="https://epg.112114.eu.org/"
+#EXTM3U webview x-tvg-url="https://epg.112114.xyz/pp.xml" url-tvg="https://epg.112114.xyz/pp.xml"
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1 综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 webview://https://tv.cctv.com/live/cctv1/
