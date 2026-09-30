@@ -27,7 +27,7 @@ webview://https://tv.cctv.com/live/cctv7/
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV-8 电视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
 webview://https://tv.cctv.com/live/cctv8/
 
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV-9 记录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视",CCTV-9 记录
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV-9 纪录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视",CCTV-9 纪录
 webview://https://tv.cctv.com/live/cctvjilu/
 
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV-10 科教" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视",CCTV-10 科教
